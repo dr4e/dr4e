@@ -13,8 +13,8 @@
   ##
   
 <div> 
-  <a height="180em" href="https://instagram.com/dr4e_al" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a height="180em" href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a> 
+  <a href="https://instagram.com/dr4e_al" target="_blank"><img height="180em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank"><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a> 
 </div>
 
 <!--
