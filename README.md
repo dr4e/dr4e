@@ -1,6 +1,6 @@
 ## Olá, Me chamo André Luiz 👋
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent">
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,6 +15,7 @@
 <div> 
   <a href="https://instagram.com/dr4e_al" target="_blank"><img height="40em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a> 
+  <i class="devicon-linkedin-plain-wordmark colored"></i>        
 </div>
 
 <!--
