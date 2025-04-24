@@ -1,6 +1,7 @@
 ## Olá, Me chamo André Luiz👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr4e&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=radical)
 <!--
 **dr4e/dr4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
