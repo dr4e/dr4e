@@ -1,4 +1,4 @@
-## Olá, Me chamo André Luiz👋
+## Olá, Me chamo André Luiz 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent)
 <!--
