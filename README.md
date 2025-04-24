@@ -1,5 +1,4 @@
 ## Olá, Me chamo André Luiz 👋
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent">
 
 <div style="display: inline_block"><br>
@@ -15,7 +14,7 @@
   
 <div> 
   <a href="https://instagram.com/dr4e_al" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank"><i class="devicon-linkedin-plain-wordmark colored"></i></a> 
+  <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a> 
 </div>
 
 <!--
