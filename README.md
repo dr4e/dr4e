@@ -5,7 +5,7 @@
  LinkedIn! <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank">André Luiz</a></p>
 
 <div style="display: inline_block">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Meus_Commits🎉&rank_icon=github">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Atividades🎉&rank_icon=github">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent&custom_title=Linguagens">
 </div>
 <div style="display: inline_block"><br>
