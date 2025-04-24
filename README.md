@@ -1,11 +1,13 @@
 ## Olá, Me chamo André Luiz 👋
 <p align="justify">
-Tenho 18 anos, sou de São Paulo e concluí o Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC de Poá. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Unicamp.
-Sou entusiasta por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam crescer pessoalmente e profissionalmente. Estou aberto a conexões e oportunidades, sinta-se à vontade para me chamar no LinkedIn!
-</p>
- <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank">André Luiz</a> <br><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Meus_Commits🎉"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent&custom_title=Linguagens">
+ Tenho 18 anos, sou de São Paulo e concluí o Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC de Poá. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Unicamp.
+ Sou entusiasta por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam crescer pessoalmente e profissionalmente. Estou aberto a conexões e oportunidades, sinta-se à vontade para me chamar no   
+ LinkedIn! <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank">André Luiz</a></p>
 
+<div style="display: inline_block">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Meus_Commits🎉">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent&custom_title=Linguagens">
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
