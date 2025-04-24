@@ -1,6 +1,7 @@
 ## Olá, Me chamo André Luiz 👋
 Tenho 18 anos, sou de São Paulo e concluí o Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC de Poá. Atualmente, curso Bacharelado em Sistemas de Informação na Unicamp.
-Sou entusiasta por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam crescer pessoal e profissionalmente. Estou aberto a conexões e oportunidades — sinta-se à vontade para me chamar no LinkedIn!<a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank">André Luiz</a>
+Sou entusiasta por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam crescer pessoal e profissionalmente. Estou aberto a conexões e oportunidades — sinta-se à vontade para me chamar no LinkedIn! 
+ <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank">André Luiz</a> <br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Meus_Commits🎉"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent&custom_title=Linguagens">
 
 <div style="display: inline_block"><br>
