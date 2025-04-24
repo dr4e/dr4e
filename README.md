@@ -1,7 +1,8 @@
 ## Olá, Me chamo André Luiz 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent)
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
