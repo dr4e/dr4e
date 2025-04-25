@@ -2,7 +2,7 @@
 <p align="justify">
  Tenho 18 anos, sou de São Paulo e concluí o Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC de Poá. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Unicamp.
  Sou entusiasta por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam crescer de modo pessoal e profissional. Estou aberto a conexões e oportunidades, por isso, fique à vontade para me chamar no  
- <a href="https://www.linkedin.com/in/andré-luiz-abbb6a2aa/" target="_blank"> LinkedIn</a>!</p>
+ <a href="https://www.linkedin.com/in/andreluizclementedeoliveira/" target="_blank"> LinkedIn</a>!</p>
 
 <div style="display: inline_block">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Atividades🎉&rank_icon=github">
