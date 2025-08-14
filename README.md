@@ -5,8 +5,8 @@
  <a href="https://www.linkedin.com/in/andreluizclementedeoliveira/" target="_blank"> LinkedIn</a>!</p>
 
 <div style="display: inline_block">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr4e&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Atividades🎉&rank_icon=github">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr4e&layout=compact&theme=transparent&custom_title=Linguagens">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluizcle&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Atividades🎉&rank_icon=github">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizcle&layout=compact&theme=transparent&custom_title=Linguagens">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
